@@ -23,7 +23,7 @@ img{
     width: 100%;
 }
 .landing-image{
-    /*opacity: 0.3; use if ung jpg as landing image*/
+    /*opacity: 0.3; use if png jpg as landing image*/
     width:100%;
     height:auto;
     min-height: 450px;
